@@ -1,4 +1,4 @@
-# 🍹 **Drinks, Drinks, Drinks** 🍹
+# 🍹 *Perfect Cocktail** 🍹
 
 [![buddy pipeline](https://app.buddy.works/michaeljroeslein/drinks-drinks-drinks/pipelines/pipeline/206084/badge.svg?token=7d73f9cc2943069fefebda36433fea85b22c5d84c43fe492687560a85105e7dd "buddy pipeline")](https://app.buddy.works/michaeljroeslein/drinks-drinks-drinks/pipelines/pipeline/206084)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
